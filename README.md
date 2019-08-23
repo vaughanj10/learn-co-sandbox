@@ -1,11 +1,10 @@
 Hi! 👋
 
-You've opened the IDE Sandbox. 🎉
+You've opened the IDE Sandbox,an environment that you can access on "readme" and "code-along" lessons in Learn. It's a great place to experiment with code!
 
-The Sandbox is an environment that you can access on "readme" and "code-along" lessons in Learn. It's a great place to experiment with code when you're not working on a "lab" (labs open the IDE In Browser).
+IMPORTANT
+Saving varies by type of work you are doing:
+* Most of the work you do in the Sandbox is automatically saved on your behalf to the `learn-co-sandbox` repository in your GitHub account. Please DO NOT touch this repository in GitHub, as it will affect your Sandbox experience, and potentially cause your work to be out of sync.
+* Git repositories that you clone* into the Sandbox are NOT automatically saved. In this case, you are responsible for committing and pushing your work to GitHub. 
 
-The work you do in the Sandbox will be saved from lesson to lesson, and is automatically saved on your behalf to a repository in your GitHub account called `learn-co-sandbox`.
-
-Please DO NOT touch this repository in GitHub, as it will affect your Sandbox experience, and potentially cause your work to be out of sync.
-
-To learn more about the Sandbox, please visit http://help.learn.co/technical-support/learn-ide-in-browser/ide-in-browser-sandbox.
+To learn more about the Sandbox, please visit http://help.learn.co/technical-support/learn-ide-in-browser/ide-in-browser-sandbox
